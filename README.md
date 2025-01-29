@@ -1,0 +1,3 @@
+# Festival fun, emissions undone: Travel green and keep the planet clean
+
+This project is part of a virtual work experience organized by the Data Inspiration Group, DigData, in collaboration with National Highways, an executive body sponsored by the UK's Department for Transport. My goal as a participant is to use the data provided to provide impactful and informative recommendations to National Highways as to how they can use data to better inform festival-goers on the best travel options from their locations.
