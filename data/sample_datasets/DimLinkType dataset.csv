@@ -1,0 +1,9 @@
+LinkTypeID,LinkTypeDescription
+DC,Dual Carriageway
+SC,Single Carriageway
+R,Roundabout
+SL,Slip Road
+SR,Service Road
+L,Layby
+EA,Emergency Area
+DL,Distributor Lane

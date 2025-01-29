@@ -1,0 +1,21 @@
+Origin,Mode of Transport,Distance,Travel Time,Age Group,Carpooling,Weather,Peak/NoPeak,Day
+Liverpool,Petrol Car,52.8,1.5,18-24,,Rain,No Peak,Weekend
+Manchester,Bus,88.1,1.8,18-24,3.0,Sunny,Peak,Weekend
+Liverpool,Petrol Car,82.5,1.5,35-44,,Cloudy,Peak,Weekend
+Newcastle,Petrol Car,64.2,1.7,55-64,4.0,Rain,Peak,Weekday
+Newcastle,Petrol Car,115.8,0.7,18-24,1.0,Rain,Peak,Weekday
+Liverpool,Electric Car,88.4,1.8,35-44,,Rain,No Peak,Weekend
+Birmingham,Bus,148.1,1.5,35-44,2.0,Rain,Peak,Weekend
+Bristol,Bus,117.0,1.1,55-64,,Cloudy,No Peak,Weekday
+Manchester,Bus,86.3,1.1,55-64,3.0,Rain,No Peak,Weekend
+,Petrol Car,120.3,1.8,35-44,,Cloudy,No Peak,Weekend
+Birmingham,Train,125.2,1.9,55-64,1.0,Rain,Peak,Weekend
+London,Train,88.1,2.0,35-44,,Rain,Peak,Weekend
+Liverpool,Bus,155.8,1.5,18-24,,Rain,Peak,Weekday
+Bristol,Petrol Car,75.9,1.5,18-24,,Cloudy,No Peak,Weekend
+London,Petrol Car,117.9,1.3,25-34,,Cloudy,Peak,Weekend
+Manchester,Petrol Car,129.2,1.3,45-54,,Cloudy,No Peak,Weekday
+London,Petrol Car,116.2,1.6,35-44,,Rain,No Peak,Weekday
+Birmingham,Petrol Car,106.9,2.1,18-24,,Cloudy,No Peak,Weekday
+Newcastle,Petrol Car,58.3,1.9,18-24,,Cloudy,Peak,Weekday
+Newcastle,Electric Car,48.2,1.6,18-24,,Rain,Peak,Weekday
