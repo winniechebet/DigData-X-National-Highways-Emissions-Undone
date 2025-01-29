@@ -1,0 +1,5 @@
+# Ignore complete datasets for security reasons
+data/complete_datasets/
+
+# Ignore project guideline resources
+resources/
