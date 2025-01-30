@@ -1,5 +1,9 @@
-# Ignore complete datasets for security reasons
-data/complete_datasets/
+# Ignore raw and complete datasets for security reasons
+notebooks/raw_datasets
+
+# Ignore cleaned up datasets
+notebooks/cleaned_datasets
 
 # Ignore project guideline resources
 resources/
+
