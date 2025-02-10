@@ -8,5 +8,4 @@ notebooks/cleaned_datasets
 resources/
 
 # Ignore Jupyter Notebook Checkpoints
-notebooks/Cleaning/.ipynb_checkpoints/
-
+checkpoint.ipynb
