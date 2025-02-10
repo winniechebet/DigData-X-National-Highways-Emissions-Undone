@@ -7,3 +7,6 @@ notebooks/cleaned_datasets
 # Ignore project guideline resources
 resources/
 
+# Ignore Jupyter Notebook Checkpoints
+notebooks/Cleaning/.ipynb_checkpoints/
+
